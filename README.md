@@ -14,7 +14,7 @@ Python 3 code using Seleniun to login to your Swiggy account on the Desktop, scr
 <b>Input required:<b> Phone number associated with the account and the subsequent OTP that is received on the phone<br />
 <br />
 
-<b>Output:<b> orders_summary.json - containing all the order info<br />
+<b>Output:<b> <a href="https://github.com/tebbythomas/Swiggy_Orders_Download_Python/blob/master/orders_summary.json">orders_summary.json</a> - containing all the order info<br />
 </p>
 <b>To run the code</b>:
 <br />
