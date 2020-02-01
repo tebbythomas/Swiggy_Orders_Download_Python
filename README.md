@@ -23,4 +23,4 @@ python swiggy_orders.py
 </code></pre>
 
 <br />
-<b><a href="https://www.youtube.com/watch?v=xVn7TEQKdSE">Video Link - Screen Capture of Script in execution<b><br/>
+<b><a href="https://www.youtube.com/watch?v=x2uXNh-drBo">Video Link - Screen Capture of Script in execution<b><br/>
